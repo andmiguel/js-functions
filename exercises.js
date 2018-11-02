@@ -45,8 +45,8 @@ var y = 5
  * Console.log `sum` to test your code.
 */
 
-function add(y,x)
-console.log(sum)
+function add(x,y)
+Console.log(sum)
 
 /*
  * #3
@@ -63,9 +63,8 @@ console.log(sum)
 */ 
 
 
-function subtract(num1,num2)
-
-
+function subtract(x,y)
+console.log(difference)
 
 
 /*
@@ -82,16 +81,9 @@ function subtract(num1,num2)
  * Console.log `product` to test your code.
 */
 
-@param Datatype: Number 10 `num1`
-@param Datatype: Number 5 `num2`
-@return Datatype: Number 
+function multiply(x,y)
+Console.log(product)
 
-
-
-function multiply(num1,num2)}
-  return num1 * num2;
-}
-  console.log(product)
 /*
  * #5
  * Function - divide
@@ -106,7 +98,9 @@ function multiply(num1,num2)}
  * Console.log `quotient` to test your code.
 */
 
-Function divide (10/5)
+
+function divide (x,y)
+Console.log(quotient)
 
 /*
  * #6
@@ -120,8 +114,8 @@ Function divide (10/5)
  * Console.log your result.
 */
 
-Function checkSum (4)
-
+function checkSum (x)
+var x = "Mariah Carey has been married 9 amount of times."
 
 /*
  * #7
@@ -136,7 +130,8 @@ Function checkSum (4)
  * Console.log your results.
 */ 
 
-
+function checkDifference (x)
+var x
 
 /*
  * #8
@@ -148,6 +143,8 @@ Function checkSum (4)
  * This function will multiply the values stored in the sum and product variables.
  * Console.log your result.  
 */
+
+function checkProduct
 
 
 /*
@@ -183,7 +180,12 @@ Function checkSum (4)
  * Console.log your result.
 */ 
 
+var x = 5
+var y = 10
+var z = 15
 
+function addThemSubtract (x,y,z)
+console,log(difference)
 
 
 /*
@@ -200,8 +202,8 @@ Function checkSum (4)
  * Console.log your result.
 */ 
 
-
-}
+function multiplyThenDivide(x,y,z)
+console.log (quotient)
 
 
 /*
@@ -216,7 +218,8 @@ Function checkSum (4)
  *  This function `returns` back a string which represents someone's full name. Invoke this function by passing in your first  and last name into the function. Store the return value into a variable named `myFullName` and console.log this variable to show your result.
 */
 
-
+function createFullName ("Andrew", "Miguel")
+console.log()
 
 /*
  * #13 
@@ -232,7 +235,8 @@ Function checkSum (4)
  * Console.log your result.
  */
 
-
+function eatFood ("Andrew", "Miguel" "Pizza")
+console.log ()
 
 /************** ENGAGE HYPERDRIVE **************/
 /* No more training wheels! For the exercises #14-18, use the experience you've
@@ -247,7 +251,8 @@ Function checkSum (4)
  * Console.log your result. 
 */
 
-
+function shoeSize (inches)
+console.log ()
 
 /*
  * #15
@@ -259,20 +264,20 @@ Function checkSum (4)
  * Example output: "BELIEVE YOU CAN AND YOU'RE HALFWAY THERE."
 */
  
- var str = "hello"
+ function myFunction ()
+ var str = "Hello World"
+ var res + str.toUpperCase()
 
-function allCaps(str)
 
-console.log(str)
 /*
  * #16
  * Function oneCap
  * Create a function that will take in a parameter named `str`. 
- * This function will capitalize only the first letter in the variable phase above. 
+ * This funcyion will capitalize only the first letter in the variable phase above. 
  * Console.log your result.
 */
 
-
+function myFunction ()
 
 /*
  * #17
