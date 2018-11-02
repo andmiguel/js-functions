@@ -27,6 +27,8 @@ console.log(testGreeting); // printing the output value of the function.
  * These two variables will be used to invoke the functions #2 - #5.
 */ 
 
+var x = 10
+var y = 5
 
 /*
  * #2
@@ -43,8 +45,8 @@ console.log(testGreeting); // printing the output value of the function.
  * Console.log `sum` to test your code.
 */
 
-
-
+function add(y,x)
+console.log(sum)
 
 /*
  * #3
@@ -61,6 +63,7 @@ console.log(testGreeting); // printing the output value of the function.
 */ 
 
 
+function subtract(num1,num2)
 
 
 
@@ -79,9 +82,16 @@ console.log(testGreeting); // printing the output value of the function.
  * Console.log `product` to test your code.
 */
 
+@param Datatype: Number 10 `num1`
+@param Datatype: Number 5 `num2`
+@return Datatype: Number 
 
 
 
+function multiply(num1,num2)}
+  return num1 * num2;
+}
+  console.log(product)
 /*
  * #5
  * Function - divide
@@ -96,7 +106,7 @@ console.log(testGreeting); // printing the output value of the function.
  * Console.log `quotient` to test your code.
 */
 
-
+Function divide (10/5)
 
 /*
  * #6
@@ -110,8 +120,7 @@ console.log(testGreeting); // printing the output value of the function.
  * Console.log your result.
 */
 
-
-
+Function checkSum (4)
 
 
 /*
@@ -250,8 +259,11 @@ console.log(testGreeting); // printing the output value of the function.
  * Example output: "BELIEVE YOU CAN AND YOU'RE HALFWAY THERE."
 */
  
+ var str = "hello"
 
+function allCaps(str)
 
+console.log(str)
 /*
  * #16
  * Function oneCap
